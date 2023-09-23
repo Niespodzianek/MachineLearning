@@ -1,0 +1,5 @@
+*.pyc
+/Kurs Mateusza
+ml_venv/
+.DS_Store/
+.idea/
